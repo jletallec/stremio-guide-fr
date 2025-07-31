@@ -40,7 +40,7 @@ Après avoir installé SideStore, vous pouvez reprendre à partir de l'Étape 2 
 
 **Solution 1 : App Store**
 
-La meilleure façon de profiter de Stremio sur les appareils Apple est de passer par l'App Store. Votre progression, vos favoris et autres paramètres ne pourront pas être synchronisés sur votre compte Stremio, mais les addons Stremio restent compatibles avec ces apps tierces et la progression ainsi que vos favoris sont synchronisés entre tous les appareils Apple via iCloud. Si vous avez rejoins un groupe familial, les autres personnes de votre famille Apple n'auront pas besoin de repayer l'application que vous avez acheté, et ils ne pourront pas voir votre contenu.
+La meilleure façon de profiter de Stremio sur les appareils Apple (iOS, iPadOS, AppleTV) est de passer par l'App Store. Votre progression, vos favoris et autres paramètres ne pourront pas être synchronisés sur votre compte Stremio, mais les addons Stremio restent compatibles avec ces apps tierces et la progression ainsi que vos favoris sont synchronisés entre tous les appareils Apple via iCloud. Si vous avez rejoins un groupe familial, les autres personnes de votre famille Apple n'auront pas besoin de repayer l'application que vous avez acheté, et ils ne pourront pas voir votre contenu.
 Voici une sélection d'applications compatibles avec les addons Stremio :
 
 - Vidi (4.99€) [App Store](https://apps.apple.com/fr/app/vidi-media-center/id6648776878)
