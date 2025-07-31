@@ -4,7 +4,7 @@ Contrairement à Android, il est plus compliqué d'installer Stremio sur des app
 
 Pour ces 3 solutions, si vous êtes sur **Windows**, vous devrez installer **iTunes** et **iCloud**. Référez vous au liens de téléchargements disponibles sur cette [page](https://faq.altstore.io/altstore-classic/how-to-install-altstore-window). __N'installez pas ces logiciels depuis le Microsoft Store !__
 
-**1ère Solution : Installer la version Web de Stremio**
+**Solution 1 : Installer la version Web de Stremio**
 
  1. Téléchargez [Outplayer](https://apps.apple.com/fr/app/outplayer/id1449923287) depuis l'App Store
  2. Allez sur [web.stremio.com](https://web.stremio.com) depuis Safari, pas sur Chrome ou tout autre navigateur.
@@ -12,7 +12,7 @@ Pour ces 3 solutions, si vous êtes sur **Windows**, vous devrez installer **iTu
  4. Ouvrez Stremio depuis l'écran d'accueil et connectez-vous
  5. Allez dans les paramètres de Stremio, lecteur externe, réglez-le sur **Outplayer**
 
-**2ème Solution : Installer Stremio via AltStore**
+**Solution 2 : Installer Stremio via AltStore**
 
  1. Installer AltStore sur son iPhone / iPad depuis un ordinateur ([Windows](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows), [MacOS](https://faq.altstore.io/altstore-classic/how-to-install-altstore-macos))
  2. Une fois dans AltStore, allez Browse, puis Sources, et ajoutez le lien suivant : `https://ipa.cypwn.xyz/cypwn_unique.json`
@@ -20,13 +20,13 @@ Pour ces 3 solutions, si vous êtes sur **Windows**, vous devrez installer **iTu
 
 :warning: Limite : Lors de l'installation d'une app, vous devez être connecté à l'ordinateur via un câble ou en étant sur le même réseau wifi que ce dernier. **Après avoir installé l'app, vous devrez rafraîchir toutes les applications (AltStore + Stremio) maximum 7 jours après avoir installé l'app**.
 
-**3ème Solution : Installer Stremio via SideStore**
+**Solution 3 : Installer Stremio via SideStore**
 
 SideStore étant basé sur AltStore, les étapes sont un peu près similaire. L'avantage avec SideStore c'est que contrairement à AltStore il n'a pas besoin de se connecter à un ordinateur après avoir été installé. En effet, l'application contourne cette limite avec un VPN qui fait croire à Apple qu'on utilise un Mac alors que tout se passe sur notre appareil iOS. Un guide complet est trouvable sur cette [page](https://sidestore.io/#get-started).
 
 Après avoir installé SideStore, vous pouvez reprendre à partir de l'Étape 2 de l'installation d'AltStore pour installer Stremio.
 
-**4ème Solution : Installer Stremio via Sideloady**
+**Solution 4 : Installer Stremio via Sideloady**
 
  1. Installer [Sideloady](https://sideloadly.io)
  2. Aller sur ce site (https://ipa.cypwn.xyz) et rechercher Stremio, puis prendre la première version sur la gauche, puis cliquer sur **Download**
