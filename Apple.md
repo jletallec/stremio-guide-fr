@@ -2,8 +2,6 @@ Contrairement à Android, il est plus compliqué d'installer Stremio sur des app
 
 **GRATUIT** (Non recommandé) [**SEULEMENT COMPATIBLE AVEC iOS ET iPadOS, PAS APPLE TV**]
 
-Pour ces 3 solutions, si vous êtes sur **Windows**, vous devrez installer **iTunes** et **iCloud**. Référez vous au liens de téléchargements disponibles sur cette [page](https://faq.altstore.io/altstore-classic/how-to-install-altstore-window). __N'installez pas ces logiciels depuis le Microsoft Store !__
-
 **Solution 1 : Installer la version Web de Stremio**
 
  1. Téléchargez [Outplayer](https://apps.apple.com/fr/app/outplayer/id1449923287) depuis l'App Store
@@ -11,6 +9,8 @@ Pour ces 3 solutions, si vous êtes sur **Windows**, vous devrez installer **iTu
  3. Bouton de Partage → Ajouter à l'écran d'accueil
  4. Ouvrez Stremio depuis l'écran d'accueil et connectez-vous
  5. Allez dans les paramètres de Stremio, lecteur externe, réglez-le sur **Outplayer**
+
+Pour les 3 solutions suivantes, si vous êtes sur **Windows**, vous devrez installer **iTunes** et **iCloud**. Référez vous au liens de téléchargements disponibles sur cette [page](https://faq.altstore.io/altstore-classic/how-to-install-altstore-window). __N'installez pas ces logiciels depuis le Microsoft Store !__
 
 **Solution 2 : Installer Stremio via AltStore**
 
